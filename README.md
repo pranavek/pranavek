@@ -1,25 +1,12 @@
-<div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
-	<p>Loading</p>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
+## Hello, World!
 
-<!--
-Here are some ideas to get you started:
+I am a Software Engineer with a keen interest in Distributed Systems and Application Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Java, Spring, Kubernetes, AWS, Distributed Systems ..
+- 🌱 I’m currently learning Vim, Rust, Networking ..
+- 👯 I’m looking to collaborate on automating and developing/maintaining recon tools
+- 🤔 I’m looking for help with forming a CTF team
+- 💬 Ask me about Minimalism, Metacognition, Privacy and Web Security
+- 📫 You can reach me at [Twitter](https://twitter.com/pranavek) or [LinkedIn](https://www.linkedin.com/in/pranavek/) 
+- ⚡ Fun fact: I consider myself as an remnant of supernova - The galatcic chemical evolution created elements and compounds required for life and then eventually, us
+
