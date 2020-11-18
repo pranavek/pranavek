@@ -8,5 +8,5 @@ I am a Software Engineer with a keen interest in Distributed Systems and Applica
 - 🤔 I’m looking for help with forming a CTF team
 - 💬 Ask me about Minimalism, Metacognition, Stoicism, Privacy and Web Security
 - 📫 You can reach me at [Twitter](https://twitter.com/pranavek) or [LinkedIn](https://www.linkedin.com/in/pranavek/) 
-- ⚡ Fun fact: I consider myself as an remnant of supernova - The galactic chemical evolution created elements and compounds required for life and then eventually, us
+- ⚡ Fun fact: I consider myself as a remnant of supernova - The galactic chemical evolution created elements and compounds required for life and then eventually, us
 
